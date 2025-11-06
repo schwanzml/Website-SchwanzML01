@@ -441,4 +441,13 @@ const skinData = {
     downloads: ["https://sfl.gl/Z6vwdvg", "https://sfl.gl/MtS3fsq7",
     ]
   },
+  "yin-aot-revamped": {
+    name: "Yin Aot Revamped",
+    date: "07-11-2025",
+    shortStory: "Yin is a young man from the East and a member of the Forsaken Light. A simple and righteous martial artist, he sometimes gives off a dark, sinister aura because of the Evil God Lieh dwelling within him. Yin left his home in the Cadia Riverlands to train in the Land of Dawn and find a way to defeat Lieh. However, the more he fights, the stronger Lieh becomes, as chaos fuels his recovery. Lieh begins granting Yin his power, driving him deeper into madness. Despite knowing the danger, Yin continues to wield this power to protect others—because giving up would make him no better than Lieh himself.",
+    replaces: ["Default", "Basic",
+    ],
+    downloads: ["https://sfl.gl/8qinUjxO", "#",
+    ]
+  },
 };
