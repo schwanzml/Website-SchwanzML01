@@ -441,4 +441,22 @@ const skinData = {
     downloads: ["https://sfl.gl/Z6vwdvg", "https://sfl.gl/MtS3fsq7",
     ]
   },
+  "yin-aot-revamped": {
+    name: "Yin Aot Revamped",
+    date: "07-11-2025",
+    shortStory: "Yin is a young man from the East and a member of the Forsaken Light. A simple and righteous martial artist, he sometimes gives off a dark, sinister aura because of the Evil God Lieh dwelling within him. Yin left his home in the Cadia Riverlands to train in the Land of Dawn and find a way to defeat Lieh. However, the more he fights, the stronger Lieh becomes, as chaos fuels his recovery. Lieh begins granting Yin his power, driving him deeper into madness. Despite knowing the danger, Yin continues to wield this power to protect others—because giving up would make him no better than Lieh himself.",
+    replaces: ["Default", "Basic",
+    ],
+    downloads: ["https://sfl.gl/8qinUjxO", "#",
+    ]
+  },
+  "martis-aot-revamped": {
+    name: "Martis Aot Revamped",
+    date: "09-11-2025",
+    shortStory: "Martis is a fierce warrior from the Ashura clan, born with an unyielding spirit and trained to conquer the legendary “Three Thousand Worlds,” a trial that no Ashura had ever completed. Through sheer determination, relentless combat skill, and an iron will, he defeated every world within the trial, earning the title of “Ashura King.” However, this victory came at a cost—his heart grew cold and consumed by battle lust. Seeking greater challenges, Martis now roams the Land of Dawn, driven by an unshakable desire for glory and supremacy, unstoppable in his pursuit of the ultimate fight.",
+    replaces: ["Default", "Basic",
+    ],
+    downloads: ["https://sfl.gl/EYlNyAI", "#",
+    ]
+  },
 };
